@@ -9,4 +9,14 @@
 ### https://tvdfy.com/
 ## TaxPedia
 ### http://taxpedia.in/
+## GM Insurance
+### https://gminsuranceservices.com/
+## MY Islam
+### https://myislam.org/
+## Zelsart
+### https://www.zelsart.com/
+## Healthy App
+### https://healthyappforyou.twizard.io/
+## Insta Iron
+### https://www.instairon.com/
 
