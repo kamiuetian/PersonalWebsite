@@ -5,7 +5,9 @@
 #### Fiverr: https://www.fiverr.com/users/kami_uetian/
 ## Education
 | MSc Software Engineering |  3.29  | University of Engineering and Technology Taxila, Pakistan |
+|--|--|
 | BSc Software Engineering | 3.10 | University of Engineering and Technology Taxila, Pakistan |
+|--|--|
 |  FSc(Pre. Engineering)| 82.82 %  | Federal Board of Intermediate and Secondary Education Islamabad |
 
 ## Projects
